@@ -1,0 +1,61 @@
+*
+{
+	box-sizing: border-box;
+}
+
+.slideshow
+{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.slides
+{
+	display: none;
+}
+
+.fade
+{
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1.5s;
+	animation-name: fade;
+	animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade
+{
+	from {opacity: .4} 
+	to {opacity: 1}
+}
+
+@keyframes fade
+{
+	from {opacity: .4} 
+	to {opacity: 1}
+}
+
+.loadbar
+{
+    width: 100%;
+    background-color: #000000;
+    height: 20px;
+    margin-left: 2px;
+    margin-right: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    display: block;
+}
+
+.progressbar
+{
+    width: 10%;
+    background-color: #ffffff;
+    height: 20px;
+    position: absolute;
+    left: 10%;
+}
