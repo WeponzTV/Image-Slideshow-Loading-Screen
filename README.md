@@ -1,2 +1,1 @@
-# Image Slideshow Loading Screen
- 
+
