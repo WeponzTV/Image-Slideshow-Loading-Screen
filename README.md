@@ -1,5 +1,7 @@
 <h2>Image Slideshow Loading Screen [w/ Audio]</h2>
 
+<strong>Preview:</strong> https://youtu.be/8NIBu9yE78k
+
 <h4>Features</h4>
 
 <ul>
@@ -8,8 +10,6 @@
   <li>Progress bar shows time of completion</li>
   <li>Loading screen shows right up to spawn</li>
 </ul>
-
-<strong>Preview:</strong> https://youtu.be/8NIBu9yE78k
 
 <h4>Installation</h4>
 
