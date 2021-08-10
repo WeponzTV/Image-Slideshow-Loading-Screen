@@ -19,6 +19,6 @@
   <li>Add the resource to your server.cfg file</li>
 </ol>
 
-<br><br>
+<br>
 
 <p>Special thanks to <a href="https://github.com/nightowlsrp">nightowlsrp</a> for the progress bar code.</p>
