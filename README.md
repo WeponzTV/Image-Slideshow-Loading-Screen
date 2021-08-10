@@ -18,3 +18,5 @@
   <li>Extract the folder and upload it to your FiveM server</li>
   <li>Add the resource to your server.cfg file</li>
 </ol>
+
+<p>Special thanks to <em>nightowlsrp</em> for the progress bar code.</p>
